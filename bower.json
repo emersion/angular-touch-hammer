@@ -1,0 +1,24 @@
+{
+  "name": "angular-touch-hammer",
+  "version": "0.1.0",
+  "homepage": "https://github.com/emersion/angular-touch-hammer",
+  "authors": [
+    "Emersion <contact@emersion.fr>"
+  ],
+  "description": "A angular-touch module powered by Hammer.js",
+  "main": "angular-touch.js",
+  "keywords": [
+    "angular",
+    "touch",
+    "hammer",
+    "gesture"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
